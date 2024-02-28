@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background: linear-gradient(to left, #413d09, #6f8d8f);
+    background: linear-gradient(to left, #633b35, #6f8d8f);
     margin: 0;
     padding: 0;
     display: flex;
@@ -11,9 +11,9 @@ body {
 }
 
 .login-container {
-    background: linear-gradient(to right , #776e3ed7, #b16464);
+    background: linear-gradient(to right , #0c091dd7, #867a91);
     padding: 25px;
-    border-radius: 5px;
+    border-radius: 50px;
     box-shadow: 0 0 10px rgba(214, 213, 213, 0.1);
     width: 450px;
     height: 500px;
@@ -41,6 +41,8 @@ body {
     border: 5px solid #140101;
     border-radius: 10px;
     box-sizing: border-box;
+    font-weight: bold;
+    height: auto;
 }
 
 .form-options {
